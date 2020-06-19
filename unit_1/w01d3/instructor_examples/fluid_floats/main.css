@@ -1,0 +1,75 @@
+/* cmd + ? = a css comment */
+/* the * (wildcard) will apply css to everything */
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Poiret+One');
+
+* {
+  /* border: 1px solid gold; */
+}
+
+/* body is an existing html element */
+body {
+  background: #255C7D;
+  font-family: 'Poiret One', cursive;
+  color:steelblue;
+  background: linear-gradient( #f8B195 5%, #f67280 10%, #C06C84 20%, #6C5B7B 30%, #255C7D);
+  margin: 0;
+}
+
+h1, h2 {
+  font-family: "Comfortaa", cursive;
+  color:black;
+}
+
+h2, h4 {
+  text-align: center;
+}
+
+nav > h1 {
+  display:inline;
+  font-size:3em;
+}
+
+nav > h3 {
+  display: inline-block;
+  width:15%;
+  text-align: right;
+  color:ghostwhite;
+}
+
+p {
+  text-align: justify;
+}
+
+/* the . is a class  and the comma (,) means
+   that we are targeting both of those classes
+   which is called "Grouping"
+*/
+
+
+.half, .third {
+  background: ghostwhite;
+  display: inline-block;
+  width:49%;
+  padding:2%;
+  box-sizing:border-box;
+  vertical-align: top;
+  margin-bottom: 16px;
+}
+
+.container {
+  width:90%;
+  /* margin: auto centers an element */
+  margin: auto;
+}
+
+/* >...what is that?..that means that the img is a direct child of .half */
+.half > img, .third > img {
+  max-width:50%;
+  float:left;
+  margin-right:5%;
+}
+
+.third {
+  width:32%;
+  min-height:280px;
+}

@@ -5,7 +5,7 @@
 # ......:: Z E N ::......
 
 ![zen garden](zen_garden.jpg)
-![zen garden](zen_garden_2.jp2)
+![zen garden](zen_garden_2.jpg)
 
 - Course Meeting Details
 - Instructor Team

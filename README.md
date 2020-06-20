@@ -4,7 +4,8 @@
 
 # ......:: Z E N ::......
 
-![zen garden](zen_garden.jpg)![zen garden](zen_garden_2.jpg)
+![zen garden](zen_garden.jpg)
+![zen garden](zen_garden_2.jp2)
 
 - Course Meeting Details
 - Instructor Team
@@ -16,7 +17,7 @@
 - Graduation Requirements
 - [Additional Expectations](#additional-expectations)
 - Group Work Formats
-- [Lesson Schedule, Quick Links & Recordings](#class-lessons-recordings)
+- [Lesson Schedule, Quick Links & Recordings](#class-lessons-and-recordings)
 
 ## Course Meeting Details
 
@@ -184,8 +185,6 @@ Let's all agree to:
 We will be using breakout rooms to get more personalized learning environments. Make sure to get to know your classmates and use eachother as teachers!
 
 ## Class Lessons and Recordings:
-
-### #class-lessons-recordings
 
 |                Day                |                                     Warm Up Exercise                                      |                                            Lectures                                            |                                   Labs                                   |                                                                            Homework                                                                             | Recording |
 | :-------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |

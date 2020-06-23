@@ -30,7 +30,7 @@
 
 ### Outcomes
 
-- Every other Thursday 6:30 - 8:30 PM Eastern time for Outcomes Sessions
+- Every other Thursday (starting week 1) 6:30 - 8:30 PM Eastern time for Outcomes Sessions
 
 ### Office Hours
 
@@ -70,7 +70,7 @@
 
 ## Communication
 
-##### Send a group DM (in slack) to Ira, Joe, Paul, and Jordan if:
+##### Send a group DM (in slack) to Ira, Alex, Paul, and Jordan if:
 
 - You know in advance that you will be missing a class or multiple classes
 - You're sick, overloaded at work, or something comes up and you can't make it to class last minute

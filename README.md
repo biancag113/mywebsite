@@ -65,12 +65,12 @@
 
 - Lead Instructor: Ira Herman
 - Lead Instructor: Alex Merced
-- Instructional Assistant: Paul Chapman
 - Instructional Assistant: Jordan Wofford
+- Instructional Assistant: Veronica Ramirez
 
 ## Communication
 
-##### Send a group DM (in slack) to Ira, Alex, Paul, and Jordan if:
+##### Send a group DM (in slack) to Ira, Alex, Veronica, and Jordan if:
 
 - You know in advance that you will be missing a class or multiple classes
 - You're sick, overloaded at work, or something comes up and you can't make it to class last minute

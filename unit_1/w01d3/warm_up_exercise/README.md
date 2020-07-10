@@ -291,7 +291,7 @@ If you would learn any two - learn these!
 
 ## Typing
 - Coding JavaScript often means reaching for keys that you're not used to. Take 2-5 minutes every day to practice
-- Try typing.io that specifically lets you practice tying code
+- Try [typing.io](http://typing.io) that specifically lets you practice typing code
 - You can also google `learn to type free` - to find the right typing practice for you, even going back and practicing touch typing regular characters can help you speed up
 
 

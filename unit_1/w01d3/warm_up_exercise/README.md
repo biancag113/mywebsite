@@ -163,7 +163,7 @@ If you would learn any two - learn these!
     - You can name your file whatever you want, but it must end with `.html`!
     - press the up arrow `touch test.html` should reappear
     - `control-u` clear the line of text
-    - `control k` clear the window
+    - `cmd-k` clear the window
     - `ls` - make sure you're still in the right place
 
 

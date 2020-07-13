@@ -21,7 +21,7 @@
 
 ## Course Meeting Details
 
-- **Course Dates**: July 7, 2020 - Dec 19, 2020
+- **Course Dates**: July 7, 2020 - Dec 30, 2020
 
 ### Class Meetings
 

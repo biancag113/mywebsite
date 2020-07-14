@@ -1,1 +1,4 @@
 Please fill this out with the License information found on Confluence
+
+Here's an addendum to the license:
+Nothing

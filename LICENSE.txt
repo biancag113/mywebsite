@@ -2,3 +2,5 @@ Please fill this out with the License information found on Confluence
 
 Here's an addendum to the license:
 Nothing
+
+If you see this, you pulled the latest update successfully!
